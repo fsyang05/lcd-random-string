@@ -1,6 +1,8 @@
 # lcd-random-string
 Simple program displaying randomly chosen string from user-defined array, using LiquidCrystal I2C library (https://github.com/johnrickman/LiquidCrystal_I2C). Supports line wrapping.
 
+Other notes included as comments in program file.
+
 ## Prerequisites
 Program was written entirely in the Arduino IDE with standard C dependencies:
 ```
